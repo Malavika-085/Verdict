@@ -1,0 +1,13 @@
+id,name,race,gender,age,income_level,credit_history,risk_score,outcome
+1,John D.,White,Male,34,High,Good,20,Approved
+2,Sarah T.,Black,Female,28,Low,Fair,65,Denied
+3,Michael B.,White,Male,42,Medium,Good,30,Approved
+4,David S.,Black,Male,22,Low,Poor,85,Denied
+5,Emily R.,White,Female,31,High,Excellent,10,Approved
+6,James L.,Hispanic,Male,37,Medium,Fair,55,Denied
+7,Jessica W.,Black,Female,45,High,Good,40,Approved
+8,Robert K.,White,Male,50,High,Excellent,15,Approved
+9,William C.,Black,Male,29,Low,Poor,75,Denied
+10,Ashley M.,Hispanic,Female,26,Medium,Good,45,Approved
+11,Mary J.,White,Female,33,Low,Fair,50,Denied
+12,Kevin N.,Black,Male,41,Medium,Good,35,Approved
